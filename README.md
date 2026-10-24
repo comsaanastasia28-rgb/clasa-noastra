@@ -1,5 +1,9 @@
 # Clasa a-IX a B - CNMV
 ## Despre noi
+>Invatam mai bine cand ne respectam
+
+
+>Fiecare poate contribui cand colaboram 
 
 **Clasa a-IX a B**,CNMV,Mate-Info
 
