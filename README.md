@@ -72,7 +72,7 @@ Vizite la muzee
 * **Proiecte ecologice**
 ## Galerie
 
-![Imagine liceu ](https://youhavenorighttobullyme.wordpress.com/colegiul-national-mihai-viteazul/)
+![Imagine liceu ](https://youhavenorighttobullyme.wordpress.com/colegiul-national-mihai-viteazul/).
 
 
 ## Resurse utile
