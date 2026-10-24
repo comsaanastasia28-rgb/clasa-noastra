@@ -57,9 +57,13 @@ IMPLICARE
 
 In proiectele noastre putem intalni notatii precum CO<sub>2 si m<sup>2</sup>
 ## Activitati si proiecte 
-
+[ x ] Plantarea florilor
+[ ] Crucea Rosie
+[ x ] Voluntariat
+[ ] Arte plastice
 * **Activitati culturale**:
 Vizite la muzee
+
 
 
 * **Activitati sportive**
@@ -67,6 +71,10 @@ Vizite la muzee
 
 * **Proiecte ecologice**
 ## Galerie
+
+![Imagine liceu ](https://youhavenorighttobullyme.wordpress.com/colegiul-national-mihai-viteazul/)
+
+
 ## Resurse utile
 ## Anunturi 
   
